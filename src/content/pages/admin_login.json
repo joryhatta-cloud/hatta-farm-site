@@ -1,0 +1,12 @@
+{
+  "title": "تسجيل الدخول",
+  "subtitle": "لوحة الإدارة",
+  "brandName": "Hatta Farm",
+  "emailLabel": "البريد الإلكتروني",
+  "emailPlaceholder": "admin@hattafarm.com",
+  "passwordLabel": "كلمة المرور",
+  "submitBtn": "دخول",
+  "loadingBtn": "جارٍ الدخول...",
+  "errorMsg": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+  "errorGeneric": "حدث خطأ، يرجى المحاولة مجدداً"
+}

@@ -1,0 +1,208 @@
+{
+  "hero": {
+    "headlineEn": "Discover Hatta Your Way",
+    "headlineAr": "اكتشف حتا بطريقتك",
+    "subheadlineEn": "Luxury chalets, resorts & farm stays in the heart of the Hajar Mountains",
+    "subheadlineAr": "شاليهات فاخرة ومنتجعات وإقامات مزارع في قلب جبال الحجر",
+    "ctaPrimaryEn": "Explore Stays",
+    "ctaPrimaryAr": "استكشف الإقامات",
+    "ctaSecondaryEn": "WhatsApp Us",
+    "ctaSecondaryAr": "تواصل واتساب"
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "nameEn": "Resorts",
+      "nameAr": "المنتجعات",
+      "taglineEn": "Full-service luxury mountain resorts",
+      "taglineAr": "منتجعات جبلية فاخرة متكاملة الخدمات",
+      "href": "/resorts",
+      "size": "large"
+    },
+    {
+      "id": "cat-2",
+      "nameEn": "Chalets",
+      "nameAr": "الشاليهات",
+      "taglineEn": "Private chalets with stunning views",
+      "taglineAr": "شاليهات خاصة بإطلالات خلابة",
+      "href": "/chalets",
+      "size": "large"
+    },
+    {
+      "id": "cat-3",
+      "nameEn": "Farm Stays",
+      "nameAr": "إقامات المزارع",
+      "taglineEn": "Authentic farm experiences in nature",
+      "taglineAr": "تجارب مزرعة أصيلة في أحضان الطبيعة",
+      "href": "/farm-stays",
+      "size": "medium"
+    },
+    {
+      "id": "cat-4",
+      "nameEn": "Holiday Homes",
+      "nameAr": "بيوت العطل",
+      "taglineEn": "Spacious homes for family getaways",
+      "taglineAr": "منازل واسعة لعطل العائلة",
+      "href": "/holiday-homes",
+      "size": "medium"
+    },
+    {
+      "id": "cat-5",
+      "nameEn": "Rooms & Accommodation",
+      "nameAr": "الغرف والإقامة",
+      "taglineEn": "Comfortable rooms for every traveller",
+      "taglineAr": "غرف مريحة لكل مسافر",
+      "href": "/rooms",
+      "size": "medium"
+    },
+    {
+      "id": "cat-6",
+      "nameEn": "Event-Friendly Stays",
+      "nameAr": "إقامات المناسبات",
+      "taglineEn": "Celebrate your special moments here",
+      "taglineAr": "احتفل بلحظاتك الخاصة هنا",
+      "href": "/events",
+      "size": "medium"
+    }
+  ],
+  "featuredProperties": [
+    {
+      "id": "prop-1",
+      "nameEn": "Al Hajar Mountain Resort",
+      "nameAr": "منتجع جبل الحجر",
+      "locationEn": "Hatta, Dubai",
+      "locationAr": "حتا، دبي",
+      "type": "resort",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "guests": 10,
+      "hasPool": true,
+      "priceFrom": 850,
+      "descriptionEn": "A premier mountain resort offering panoramic views of the Hajar Mountains with private pool and full amenities."
+    },
+    {
+      "id": "prop-2",
+      "nameEn": "Wadi Green Chalet",
+      "nameAr": "شاليه وادي الخضراء",
+      "locationEn": "Hatta, Dubai",
+      "locationAr": "حتا، دبي",
+      "type": "chalet",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "guests": 8,
+      "hasPool": true,
+      "priceFrom": 550,
+      "descriptionEn": "A serene private chalet nestled in lush greenery with a private pool and mountain backdrop."
+    },
+    {
+      "id": "prop-3",
+      "nameEn": "Masfout Farm Retreat",
+      "nameAr": "مزرعة مصفوت للاسترخاء",
+      "locationEn": "Masfout, Ajman",
+      "locationAr": "مصفوت، عجمان",
+      "type": "farm",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "guests": 14,
+      "hasPool": true,
+      "priceFrom": 1200,
+      "descriptionEn": "An expansive farm retreat in Masfout perfect for large families and private celebrations."
+    }
+  ],
+  "events": {
+    "headlineEn": "Celebrate in Style",
+    "headlineAr": "احتفل بأسلوب راقٍ",
+    "subheadlineEn": "Private venues for your most cherished moments",
+    "subheadlineAr": "أماكن خاصة لأعز لحظاتك",
+    "types": [
+      {
+        "id": "ev-1",
+        "en": "Birthday Celebrations",
+        "ar": "حفلات أعياد الميلاد"
+      },
+      {
+        "id": "ev-2",
+        "en": "Graduation Parties",
+        "ar": "حفلات التخرج"
+      },
+      {
+        "id": "ev-3",
+        "en": "Family Gatherings",
+        "ar": "التجمعات العائلية"
+      },
+      {
+        "id": "ev-4",
+        "en": "Private Celebrations",
+        "ar": "الاحتفالات الخاصة"
+      }
+    ],
+    "ctaEn": "Enquire Now",
+    "ctaAr": "استفسر الآن"
+  },
+  "services": [
+    {
+      "id": "svc-1",
+      "en": "Secure Payment",
+      "ar": "دفع آمن"
+    },
+    {
+      "id": "svc-2",
+      "en": "Tabby Installments",
+      "ar": "أقساط تابي"
+    },
+    {
+      "id": "svc-3",
+      "en": "Airport Transfer",
+      "ar": "نقل المطار"
+    },
+    {
+      "id": "svc-4",
+      "en": "24/7 WhatsApp Support",
+      "ar": "دعم واتساب 24/7"
+    },
+    {
+      "id": "svc-5",
+      "en": "Hatta Delivery",
+      "ar": "توصيل حتا"
+    },
+    {
+      "id": "svc-6",
+      "en": "Daily Cleaning",
+      "ar": "تنظيف يومي"
+    }
+  ],
+  "guide": {
+    "headlineEn": "Explore the Hatta Local Guide",
+    "headlineAr": "استكشف دليل حتا المحلي",
+    "subheadlineEn": "Everything you need to know about Hatta — restaurants, attractions, activities and more",
+    "subheadlineAr": "كل ما تحتاج معرفته عن حتا — مطاعم ومعالم وأنشطة والمزيد",
+    "ctaEn": "Explore the Guide",
+    "ctaAr": "استكشف الدليل",
+    "categories": [
+      {
+        "id": "gc-1",
+        "en": "Restaurants & Cafes",
+        "ar": "مطاعم ومقاهي",
+        "icon": "utensils"
+      },
+      {
+        "id": "gc-2",
+        "en": "Tourist Attractions",
+        "ar": "معالم سياحية",
+        "icon": "landmark"
+      },
+      {
+        "id": "gc-3",
+        "en": "Adventure Activities",
+        "ar": "أنشطة مغامرات",
+        "icon": "mountain"
+      },
+      {
+        "id": "gc-4",
+        "en": "Hospitals & Clinics",
+        "ar": "مستشفيات وعيادات",
+        "icon": "cross"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "hero": {
+    "titleEn": "Guest Services",
+    "titleAr": "خدمات الضيوف",
+    "subtitleEn": "Everything you need for a seamless mountain escape",
+    "subtitleAr": "كل ما تحتاجه لإجازة جبلية لا تُنسى"
+  },
+  "services": [
+    {
+      "id": "svc-secure-payment",
+      "icon": "shield",
+      "titleEn": "Secure Payment",
+      "titleAr": "دفع آمن",
+      "descriptionEn": "All transactions are protected with bank-grade encryption. We accept major credit cards, debit cards, and bank transfers. Your payment details are never stored on our servers.",
+      "descriptionAr": "جميع المعاملات محمية بتشفير على مستوى البنوك. نقبل بطاقات الائتمان والخصم والتحويلات البنكية. لا يتم تخزين بيانات الدفع على خوادمنا.",
+      "features": [
+        {
+          "id": "f-sp-1",
+          "en": "Visa & Mastercard accepted",
+          "ar": "قبول فيزا وماستركارد"
+        },
+        {
+          "id": "f-sp-2",
+          "en": "Bank transfer available",
+          "ar": "التحويل البنكي متاح"
+        },
+        {
+          "id": "f-sp-3",
+          "en": "SSL encrypted checkout",
+          "ar": "دفع مشفر بـ SSL"
+        },
+        {
+          "id": "f-sp-4",
+          "en": "Instant booking confirmation",
+          "ar": "تأكيد الحجز فوري"
+        }
+      ]
+    },
+    {
+      "id": "svc-tabby",
+      "icon": "credit-card",
+      "titleEn": "Tabby Installments",
+      "titleAr": "أقساط تابي",
+      "descriptionEn": "Split your booking into 4 interest-free payments with Tabby. Pay 25% now and the rest over 3 months — no hidden fees, no interest.",
+      "descriptionAr": "قسّم حجزك إلى 4 دفعات بدون فوائد مع تابي. ادفع 25% الآن والباقي على 3 أشهر — بدون رسوم خفية أو فوائد.",
+      "features": [
+        {
+          "id": "f-tb-1",
+          "en": "4 interest-free payments",
+          "ar": "4 دفعات بدون فوائد"
+        },
+        {
+          "id": "f-tb-2",
+          "en": "Instant approval",
+          "ar": "موافقة فورية"
+        },
+        {
+          "id": "f-tb-3",
+          "en": "No hidden fees",
+          "ar": "بدون رسوم خفية"
+        },
+        {
+          "id": "f-tb-4",
+          "en": "Available for all bookings",
+          "ar": "متاح لجميع الحجوزات"
+        }
+      ]
+    },
+    {
+      "id": "svc-airport",
+      "icon": "plane",
+      "titleEn": "Airport Pickup & Drop-off",
+      "titleAr": "استقبال وتوصيل المطار",
+      "descriptionEn": "We arrange comfortable, air-conditioned transfers between Dubai International Airport and your Hatta or Masfout property. Available 24/7 with advance booking.",
+      "descriptionAr": "نرتب نقلاً مريحاً ومكيفاً بين مطار دبي الدولي وعقارك في حتا أو مصفوت. متاح على مدار الساعة مع الحجز المسبق.",
+      "features": [
+        {
+          "id": "f-ap-1",
+          "en": "Dubai Airport to Hatta",
+          "ar": "مطار دبي إلى حتا"
+        },
+        {
+          "id": "f-ap-2",
+          "en": "Air-conditioned vehicles",
+          "ar": "مركبات مكيفة"
+        },
+        {
+          "id": "f-ap-3",
+          "en": "24/7 availability",
+          "ar": "متاح 24/7"
+        },
+        {
+          "id": "f-ap-4",
+          "en": "Advance booking required",
+          "ar": "يتطلب حجزاً مسبقاً"
+        }
+      ]
+    },
+    {
+      "id": "svc-whatsapp",
+      "icon": "whatsapp",
+      "titleEn": "24/7 WhatsApp Support",
+      "titleAr": "دعم واتساب 24/7",
+      "descriptionEn": "Our guest services team is available around the clock via WhatsApp. Get instant answers to your questions, request assistance, or make special arrangements — any time of day or night.",
+      "descriptionAr": "فريق خدمة الضيوف لدينا متاح على مدار الساعة عبر واتساب. احصل على إجابات فورية لأسئلتك أو اطلب المساعدة أو قم بترتيبات خاصة — في أي وقت من اليوم أو الليل.",
+      "features": [
+        {
+          "id": "f-wa-1",
+          "en": "Instant response",
+          "ar": "رد فوري"
+        },
+        {
+          "id": "f-wa-2",
+          "en": "Arabic & English support",
+          "ar": "دعم بالعربية والإنجليزية"
+        },
+        {
+          "id": "f-wa-3",
+          "en": "Booking assistance",
+          "ar": "مساعدة في الحجز"
+        },
+        {
+          "id": "f-wa-4",
+          "en": "Emergency support",
+          "ar": "دعم طوارئ"
+        }
+      ]
+    },
+    {
+      "id": "svc-cleaning",
+      "icon": "sparkles",
+      "titleEn": "Daily Cleaning",
+      "titleAr": "تنظيف يومي",
+      "descriptionEn": "Our professional housekeeping team visits daily to ensure your property is spotless throughout your stay. Fresh linens, towels, and toiletries are replenished as needed.",
+      "descriptionAr": "يزور فريق التدبير المنزلي المحترف لدينا يومياً لضمان نظافة عقارك طوال إقامتك. يتم تجديد الأغطية والمناشف ومستلزمات الحمام حسب الحاجة.",
+      "features": [
+        {
+          "id": "f-cl-1",
+          "en": "Daily housekeeping",
+          "ar": "تدبير منزلي يومي"
+        },
+        {
+          "id": "f-cl-2",
+          "en": "Fresh linen & towels",
+          "ar": "أغطية ومناشف نظيفة"
+        },
+        {
+          "id": "f-cl-3",
+          "en": "Toiletries replenishment",
+          "ar": "تجديد مستلزمات الحمام"
+        },
+        {
+          "id": "f-cl-4",
+          "en": "Professional staff",
+          "ar": "طاقم محترف"
+        }
+      ]
+    },
+    {
+      "id": "svc-delivery",
+      "icon": "truck",
+      "titleEn": "Hatta Delivery",
+      "titleAr": "توصيل حتا",
+      "descriptionEn": "We deliver groceries, essentials, and special requests directly to your property in Hatta. Order via WhatsApp and we'll handle the rest — perfect for stocking up before arrival.",
+      "descriptionAr": "نوصل البقالة والضروريات والطلبات الخاصة مباشرة إلى عقارك في حتا. اطلب عبر واتساب وسنتولى الباقي — مثالي للتزود قبل الوصول.",
+      "features": [
+        {
+          "id": "f-dl-1",
+          "en": "Grocery delivery",
+          "ar": "توصيل بقالة"
+        },
+        {
+          "id": "f-dl-2",
+          "en": "Order via WhatsApp",
+          "ar": "اطلب عبر واتساب"
+        },
+        {
+          "id": "f-dl-3",
+          "en": "Pre-arrival stocking",
+          "ar": "تزود قبل الوصول"
+        },
+        {
+          "id": "f-dl-4",
+          "en": "Special requests welcome",
+          "ar": "الطلبات الخاصة مرحب بها"
+        }
+      ]
+    },
+    {
+      "id": "svc-guide",
+      "icon": "map",
+      "titleEn": "Tourist Guidance",
+      "titleAr": "الإرشاد السياحي",
+      "descriptionEn": "Our local team knows Hatta inside out. We provide personalised recommendations for restaurants, attractions, adventure activities, and hidden gems — making your stay truly memorable.",
+      "descriptionAr": "فريقنا المحلي يعرف حتا من الداخل والخارج. نقدم توصيات شخصية للمطاعم والمعالم والأنشطة المغامرة والأماكن المخفية — لجعل إقامتك لا تُنسى حقاً.",
+      "features": [
+        {
+          "id": "f-tg-1",
+          "en": "Local restaurant tips",
+          "ar": "نصائح المطاعم المحلية"
+        },
+        {
+          "id": "f-tg-2",
+          "en": "Activity recommendations",
+          "ar": "توصيات الأنشطة"
+        },
+        {
+          "id": "f-tg-3",
+          "en": "Hidden gems guide",
+          "ar": "دليل الأماكن المخفية"
+        },
+        {
+          "id": "f-tg-4",
+          "en": "Personalised itineraries",
+          "ar": "جداول زمنية شخصية"
+        }
+      ]
+    },
+    {
+      "id": "svc-orders",
+      "icon": "package",
+      "titleEn": "Order Handling",
+      "titleAr": "معالجة الطلبات",
+      "descriptionEn": "Need something special for your stay? From birthday cake arrangements to BBQ setups, flower decorations to baby equipment — we handle all special requests with care.",
+      "descriptionAr": "هل تحتاج شيئاً خاصاً لإقامتك؟ من ترتيبات كعكة عيد الميلاد إلى إعداد الشواء، وزهور الديكور إلى معدات الأطفال — نتعامل مع جميع الطلبات الخاصة باهتمام.",
+      "features": [
+        {
+          "id": "f-oh-1",
+          "en": "Birthday arrangements",
+          "ar": "ترتيبات أعياد الميلاد"
+        },
+        {
+          "id": "f-oh-2",
+          "en": "BBQ & catering setup",
+          "ar": "إعداد الشواء والتموين"
+        },
+        {
+          "id": "f-oh-3",
+          "en": "Floral decorations",
+          "ar": "الزهور والديكور"
+        },
+        {
+          "id": "f-oh-4",
+          "en": "Baby & family equipment",
+          "ar": "معدات الأطفال والعائلة"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "titleEn": "Ready to Book Your Stay?",
+    "titleAr": "هل أنت مستعد لحجز إقامتك؟",
+    "subtitleEn": "Contact our team via WhatsApp for personalised assistance",
+    "subtitleAr": "تواصل مع فريقنا عبر واتساب للحصول على مساعدة شخصية",
+    "buttonEn": "WhatsApp Us Now",
+    "buttonAr": "تواصل معنا الآن"
+  }
+}

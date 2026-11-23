@@ -1,0 +1,14 @@
+{
+  "cta": {
+    "titleEn": "Can't find what you're looking for?",
+    "titleAr": "لا تجد ما تبحث عنه؟ تواصل معنا عبر واتساب",
+    "buttonEn": "WhatsApp Us",
+    "buttonAr": "تواصل معنا"
+  },
+  "filters": {
+    "searchPlaceholder": "Search properties...",
+    "anyGuests": "Any guests",
+    "noResults": "No properties found matching your filters.نتو",
+    "noResultsAr": "لا توجد عقارات تطابق معايير البحث."
+  }
+}

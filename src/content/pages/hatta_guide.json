@@ -1,0 +1,395 @@
+{
+  "hero": {
+    "titleEn": "Hatta Local Guide",
+    "titleAr": "دليل حتا المحلي",
+    "subtitleEn": "Everything you need to explore Hatta and Masfout",
+    "subtitleAr": "كل ما تحتاجه لاستكشاف حتا ومصفوت"
+  },
+  "categories": [
+    {
+      "id": "cat-restaurants",
+      "en": "Restaurants & Cafes",
+      "ar": "مطاعم ومقاهي",
+      "icon": "utensils"
+    },
+    {
+      "id": "cat-attractions",
+      "en": "Tourist Attractions",
+      "ar": "المعالم السياحية",
+      "icon": "landmark"
+    },
+    {
+      "id": "cat-adventure",
+      "en": "Adventure Activities",
+      "ar": "الأنشطة المغامرة",
+      "icon": "mountain"
+    },
+    {
+      "id": "cat-supermarkets",
+      "en": "Supermarkets",
+      "ar": "سوبرماركت",
+      "icon": "shopping-cart"
+    },
+    {
+      "id": "cat-shops",
+      "en": "Shops & Markets",
+      "ar": "محلات وأسواق",
+      "icon": "store"
+    },
+    {
+      "id": "cat-hospitals",
+      "en": "Hospitals & Clinics",
+      "ar": "مستشفيات وعيادات",
+      "icon": "cross"
+    },
+    {
+      "id": "cat-emergency",
+      "en": "Emergency Services",
+      "ar": "خدمات الطوارئ",
+      "icon": "siren"
+    },
+    {
+      "id": "cat-delivery",
+      "en": "Delivery Services",
+      "ar": "خدمات التوصيل",
+      "icon": "truck"
+    }
+  ],
+  "places": [
+    {
+      "id": "pl-001",
+      "category": "cat-restaurants",
+      "nameEn": "Hatta Fort Hotel Restaurant",
+      "nameAr": "مطعم فندق حتا فورت",
+      "descriptionEn": "The signature dining experience at Hatta Fort Hotel, offering a blend of international and local cuisine with stunning mountain views. Perfect for a special dinner or leisurely lunch.",
+      "descriptionAr": "تجربة الطعام المميزة في فندق حتا فورت، تقدم مزيجاً من المطبخ الدولي والمحلي مع إطلالات رائعة على الجبال. مثالي لعشاء خاص أو غداء هادئ.",
+      "locationEn": "Hatta Fort Hotel, Hatta",
+      "locationAr": "فندق حتا فورت، حتا",
+      "phone": "+971 4 852 3211",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Fort+Hotel",
+      "tags": [
+        "dine-in",
+        "mountain-view",
+        "international"
+      ]
+    },
+    {
+      "id": "pl-002",
+      "category": "cat-restaurants",
+      "nameEn": "Al Hajar Restaurant",
+      "nameAr": "مطعم الحجر",
+      "descriptionEn": "A popular local restaurant serving authentic Emirati and Arabic cuisine. Known for its grilled meats, fresh bread, and warm hospitality. A favourite among residents and visitors alike.",
+      "descriptionAr": "مطعم محلي شهير يقدم المطبخ الإماراتي والعربي الأصيل. معروف بلحومه المشوية وخبزه الطازج وضيافته الدافئة. مفضل لدى السكان والزوار على حد سواء.",
+      "locationEn": "Hatta Town Centre, Hatta",
+      "locationAr": "وسط مدينة حتا، حتا",
+      "phone": "+971 4 852 1234",
+      "mapsUrl": "https://maps.google.com/?q=Al+Hajar+Restaurant+Hatta",
+      "tags": [
+        "emirati",
+        "arabic",
+        "grills"
+      ]
+    },
+    {
+      "id": "pl-003",
+      "category": "cat-restaurants",
+      "nameEn": "Hatta Wadi Hub Cafe",
+      "nameAr": "مقهى هاتا وادي هب",
+      "descriptionEn": "A trendy cafe located at the Hatta Wadi Hub, serving specialty coffees, fresh juices, and light bites. Great spot to relax after a morning of kayaking or cycling.",
+      "descriptionAr": "مقهى عصري يقع في هاتا وادي هب، يقدم القهوة المتخصصة والعصائر الطازجة والوجبات الخفيفة. مكان رائع للاسترخاء بعد صباح من التجديف أو ركوب الدراجات.",
+      "locationEn": "Hatta Wadi Hub, Hatta Dam Road",
+      "locationAr": "هاتا وادي هب، طريق سد حتا",
+      "phone": "+971 4 852 5000",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Wadi+Hub",
+      "tags": [
+        "cafe",
+        "coffee",
+        "light-bites"
+      ]
+    },
+    {
+      "id": "pl-004",
+      "category": "cat-attractions",
+      "nameEn": "Hatta Heritage Village",
+      "nameAr": "قرية حتا التراثية",
+      "descriptionEn": "A beautifully restored 3,000-year-old village showcasing traditional Emirati architecture, watchtowers, and a fascinating museum. One of Hatta's most iconic landmarks and a must-visit for history lovers.",
+      "descriptionAr": "قرية مُرمَّمة بشكل جميل يبلغ عمرها 3000 عام تعرض العمارة الإماراتية التقليدية وأبراج المراقبة ومتحفاً رائعاً. أحد أبرز معالم حتا ولا بد من زيارته لمحبي التاريخ.",
+      "locationEn": "Heritage Village Road, Hatta",
+      "locationAr": "طريق القرية التراثية، حتا",
+      "phone": "+971 4 852 1374",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Heritage+Village",
+      "tags": [
+        "history",
+        "culture",
+        "museum",
+        "free"
+      ]
+    },
+    {
+      "id": "pl-005",
+      "category": "cat-attractions",
+      "nameEn": "Hatta Dam",
+      "nameAr": "سد حتا",
+      "descriptionEn": "The stunning turquoise reservoir nestled between the Hajar Mountains. A breathtaking viewpoint and the starting point for kayaking, paddleboarding, and boat tours. Best visited at sunrise or sunset.",
+      "descriptionAr": "الخزان الفيروزي المذهل المتناثر بين جبال الحجر. نقطة مشاهدة خلابة ونقطة انطلاق للتجديف وركوب ألواح التجديف وجولات القوارب. أفضل زيارة عند الشروق أو الغروب.",
+      "locationEn": "Hatta Dam, Hatta",
+      "locationAr": "سد حتا، حتا",
+      "phone": "",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Dam+UAE",
+      "tags": [
+        "scenic",
+        "photography",
+        "nature",
+        "free"
+      ]
+    },
+    {
+      "id": "pl-006",
+      "category": "cat-attractions",
+      "nameEn": "Hatta Honeybee Garden",
+      "nameAr": "حديقة نحل العسل في حتا",
+      "descriptionEn": "A unique attraction dedicated to the ancient tradition of beekeeping in the Hajar Mountains. Learn about local honey production, watch live beehives, and purchase authentic Hatta mountain honey.",
+      "descriptionAr": "معلم فريد مخصص لتقليد تربية النحل القديم في جبال الحجر. تعرف على إنتاج العسل المحلي وشاهد خلايا النحل الحية واشترِ عسل جبال حتا الأصيل.",
+      "locationEn": "Hatta Honeybee Garden, Hatta",
+      "locationAr": "حديقة نحل العسل في حتا، حتا",
+      "phone": "+971 4 852 1374",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Honeybee+Garden",
+      "tags": [
+        "nature",
+        "family",
+        "unique",
+        "honey"
+      ]
+    },
+    {
+      "id": "pl-007",
+      "category": "cat-adventure",
+      "nameEn": "Hatta Wadi Hub — Kayaking",
+      "nameAr": "هاتا وادي هب — التجديف",
+      "descriptionEn": "Paddle across the stunning turquoise waters of Hatta Dam in a kayak or pedal boat. Rentals available on-site. Suitable for all ages and experience levels. One of the most popular activities in Hatta.",
+      "descriptionAr": "اجدف عبر المياه الفيروزية المذهلة لسد حتا في قارب كاياك أو قارب دواسة. الإيجار متاح في الموقع. مناسب لجميع الأعمار ومستويات الخبرة. من أكثر الأنشطة شعبية في حتا.",
+      "locationEn": "Hatta Wadi Hub, Hatta Dam Road",
+      "locationAr": "هاتا وادي هب، طريق سد حتا",
+      "phone": "+971 4 852 5000",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Wadi+Hub",
+      "tags": [
+        "water",
+        "kayaking",
+        "family",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "pl-008",
+      "category": "cat-adventure",
+      "nameEn": "Hatta Mountain Bike Trail",
+      "nameAr": "مسار دراجات جبال حتا",
+      "descriptionEn": "World-class mountain biking trails winding through the rugged Hajar Mountains. Trails range from beginner to expert level. Bike rentals and guided tours available at the Hatta Wadi Hub.",
+      "descriptionAr": "مسارات ركوب الدراجات الجبلية ذات المستوى العالمي تتعرج عبر جبال الحجر الوعرة. تتراوح المسارات من مستوى المبتدئين إلى الخبراء. تأجير الدراجات والجولات المصحوبة بمرشدين متاحة في هاتا وادي هب.",
+      "locationEn": "Hatta Wadi Hub, Hatta",
+      "locationAr": "هاتا وادي هب، حتا",
+      "phone": "+971 4 852 5000",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Mountain+Bike+Trail",
+      "tags": [
+        "cycling",
+        "mountain",
+        "adventure",
+        "trails"
+      ]
+    },
+    {
+      "id": "pl-009",
+      "category": "cat-adventure",
+      "nameEn": "Hatta Zipline",
+      "nameAr": "زيبلاين حتا",
+      "descriptionEn": "Experience the thrill of the longest zipline in the Middle East, soaring over the Hajar Mountains at speeds of up to 120 km/h. Operated by Hatta Wadi Hub. Advance booking recommended.",
+      "descriptionAr": "اختبر إثارة أطول خط زيبلاين في الشرق الأوسط، محلقاً فوق جبال الحجر بسرعات تصل إلى 120 كم/ساعة. تشغله هاتا وادي هب. يُنصح بالحجز المسبق.",
+      "locationEn": "Hatta Wadi Hub, Hatta",
+      "locationAr": "هاتا وادي هب، حتا",
+      "phone": "+971 4 852 5000",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Zipline",
+      "tags": [
+        "zipline",
+        "thrill",
+        "adventure",
+        "views"
+      ]
+    },
+    {
+      "id": "pl-010",
+      "category": "cat-supermarkets",
+      "nameEn": "Hatta Co-op Supermarket",
+      "nameAr": "سوبرماركت جمعية حتا التعاونية",
+      "descriptionEn": "The main supermarket in Hatta town, stocking a wide range of groceries, fresh produce, household essentials, and local products. Open daily from early morning to late evening.",
+      "descriptionAr": "السوبرماركت الرئيسي في مدينة حتا، يضم مجموعة واسعة من البقالة والمنتجات الطازجة والضروريات المنزلية والمنتجات المحلية. مفتوح يومياً من الصباح الباكر حتى وقت متأخر من المساء.",
+      "locationEn": "Hatta Town Centre, Hatta",
+      "locationAr": "وسط مدينة حتا، حتا",
+      "phone": "+971 4 852 1100",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Cooperative+Supermarket",
+      "tags": [
+        "groceries",
+        "daily",
+        "essentials"
+      ]
+    },
+    {
+      "id": "pl-011",
+      "category": "cat-supermarkets",
+      "nameEn": "Lulu Express Hatta",
+      "nameAr": "لولو إكسبريس حتا",
+      "descriptionEn": "A convenient Lulu Express branch in Hatta offering a good selection of groceries, snacks, beverages, and household items. Ideal for quick top-ups during your stay.",
+      "descriptionAr": "فرع لولو إكسبريس مناسب في حتا يقدم تشكيلة جيدة من البقالة والوجبات الخفيفة والمشروبات والمستلزمات المنزلية. مثالي للتزود السريع خلال إقامتك.",
+      "locationEn": "Hatta Main Road, Hatta",
+      "locationAr": "الطريق الرئيسي لحتا، حتا",
+      "phone": "+971 4 852 2200",
+      "mapsUrl": "https://maps.google.com/?q=Lulu+Express+Hatta",
+      "tags": [
+        "groceries",
+        "convenience",
+        "lulu"
+      ]
+    },
+    {
+      "id": "pl-012",
+      "category": "cat-shops",
+      "nameEn": "Hatta Souq",
+      "nameAr": "سوق حتا",
+      "descriptionEn": "The traditional market in the heart of Hatta, offering local handicrafts, spices, honey, dates, and souvenirs. A great place to pick up authentic Emirati gifts and experience local culture.",
+      "descriptionAr": "السوق التقليدي في قلب حتا، يقدم الحرف اليدوية المحلية والتوابل والعسل والتمور والهدايا التذكارية. مكان رائع لشراء الهدايا الإماراتية الأصيلة وتجربة الثقافة المحلية.",
+      "locationEn": "Old Town, Hatta",
+      "locationAr": "المدينة القديمة، حتا",
+      "phone": "",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Souq",
+      "tags": [
+        "souvenirs",
+        "handicrafts",
+        "honey",
+        "dates"
+      ]
+    },
+    {
+      "id": "pl-013",
+      "category": "cat-shops",
+      "nameEn": "Hatta Honey Shop",
+      "nameAr": "متجر عسل حتا",
+      "descriptionEn": "Specialising in pure, locally-sourced Hatta mountain honey — one of the most prized honeys in the UAE. Also stocks a range of natural products, herbs, and traditional remedies.",
+      "descriptionAr": "متخصص في عسل جبال حتا النقي المحلي المصدر — أحد أكثر أنواع العسل قيمة في الإمارات. يضم أيضاً مجموعة من المنتجات الطبيعية والأعشاب والعلاجات التقليدية.",
+      "locationEn": "Heritage Village Area, Hatta",
+      "locationAr": "منطقة القرية التراثية، حتا",
+      "phone": "+971 50 123 4567",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Honey+Shop",
+      "tags": [
+        "honey",
+        "natural",
+        "gifts",
+        "local"
+      ]
+    },
+    {
+      "id": "pl-014",
+      "category": "cat-hospitals",
+      "nameEn": "Hatta Hospital",
+      "nameAr": "مستشفى حتا",
+      "descriptionEn": "The main government hospital serving Hatta and surrounding areas. Provides emergency care, outpatient services, and general medical treatment. Open 24 hours for emergencies.",
+      "descriptionAr": "المستشفى الحكومي الرئيسي الذي يخدم حتا والمناطق المحيطة بها. يقدم رعاية طارئة وخدمات العيادات الخارجية والعلاج الطبي العام. مفتوح 24 ساعة لحالات الطوارئ.",
+      "locationEn": "Hatta Hospital Road, Hatta",
+      "locationAr": "طريق مستشفى حتا، حتا",
+      "phone": "+971 4 852 1000",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Hospital",
+      "tags": [
+        "hospital",
+        "emergency",
+        "24h",
+        "government"
+      ]
+    },
+    {
+      "id": "pl-015",
+      "category": "cat-hospitals",
+      "nameEn": "Hatta Medical Centre",
+      "nameAr": "المركز الطبي حتا",
+      "descriptionEn": "A private medical centre offering general practitioner consultations, minor treatments, and pharmacy services. Shorter waiting times than the main hospital for non-emergency cases.",
+      "descriptionAr": "مركز طبي خاص يقدم استشارات الطبيب العام والعلاجات البسيطة وخدمات الصيدلية. أوقات انتظار أقصر من المستشفى الرئيسي للحالات غير الطارئة.",
+      "locationEn": "Hatta Town Centre, Hatta",
+      "locationAr": "وسط مدينة حتا، حتا",
+      "phone": "+971 4 852 3300",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Medical+Centre",
+      "tags": [
+        "clinic",
+        "gp",
+        "pharmacy",
+        "private"
+      ]
+    },
+    {
+      "id": "pl-016",
+      "category": "cat-emergency",
+      "nameEn": "Hatta Police Station",
+      "nameAr": "مركز شرطة حتا",
+      "descriptionEn": "The main police station for Hatta. For emergencies, call 999. For non-urgent matters, visit the station or call the direct number during office hours.",
+      "descriptionAr": "مركز الشرطة الرئيسي لحتا. للطوارئ، اتصل بـ 999. للأمور غير العاجلة، قم بزيارة المركز أو اتصل بالرقم المباشر خلال ساعات العمل.",
+      "locationEn": "Hatta Police Station Road, Hatta",
+      "locationAr": "طريق مركز شرطة حتا، حتا",
+      "phone": "999",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Police+Station",
+      "tags": [
+        "police",
+        "emergency",
+        "999"
+      ]
+    },
+    {
+      "id": "pl-017",
+      "category": "cat-emergency",
+      "nameEn": "Hatta Civil Defence",
+      "nameAr": "الدفاع المدني حتا",
+      "descriptionEn": "Fire and rescue services for Hatta. In case of fire or rescue emergency, call 997 immediately. The station is staffed 24/7.",
+      "descriptionAr": "خدمات الإطفاء والإنقاذ لحتا. في حالة الحريق أو طوارئ الإنقاذ، اتصل بـ 997 فوراً. المحطة مجهزة بطاقم على مدار الساعة.",
+      "locationEn": "Hatta Civil Defence Station, Hatta",
+      "locationAr": "محطة الدفاع المدني حتا، حتا",
+      "phone": "997",
+      "mapsUrl": "https://maps.google.com/?q=Hatta+Civil+Defence",
+      "tags": [
+        "fire",
+        "rescue",
+        "emergency",
+        "997"
+      ]
+    },
+    {
+      "id": "pl-018",
+      "category": "cat-delivery",
+      "nameEn": "Talabat",
+      "nameAr": "طلبات",
+      "descriptionEn": "Order food and groceries from local restaurants and stores in Hatta via the Talabat app. Coverage in Hatta town centre and surrounding areas. Download the app or visit the website.",
+      "descriptionAr": "اطلب الطعام والبقالة من المطاعم والمتاجر المحلية في حتا عبر تطبيق طلبات. التغطية في وسط مدينة حتا والمناطق المحيطة بها. حمّل التطبيق أو زر الموقع الإلكتروني.",
+      "locationEn": "App-based, Hatta coverage",
+      "locationAr": "عبر التطبيق، تغطية حتا",
+      "phone": "",
+      "mapsUrl": "https://www.talabat.com",
+      "tags": [
+        "food-delivery",
+        "app",
+        "groceries"
+      ]
+    },
+    {
+      "id": "pl-019",
+      "category": "cat-delivery",
+      "nameEn": "Hatta Farm Delivery",
+      "nameAr": "توصيل حتا فارم",
+      "descriptionEn": "Our own in-house delivery service for guests. We deliver groceries, essentials, BBQ supplies, and special requests directly to your property. Order via WhatsApp — fast, reliable, and personal.",
+      "descriptionAr": "خدمة التوصيل الداخلية الخاصة بنا للضيوف. نوصل البقالة والضروريات ومستلزمات الشواء والطلبات الخاصة مباشرة إلى عقارك. اطلب عبر واتساب — سريع وموثوق وشخصي.",
+      "locationEn": "Hatta & Masfout coverage",
+      "locationAr": "تغطية حتا ومصفوت",
+      "phone": "+971 50 000 0000",
+      "mapsUrl": "",
+      "tags": [
+        "hatta-farm",
+        "delivery",
+        "whatsapp",
+        "personal"
+      ]
+    }
+  ]
+}

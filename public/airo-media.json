@@ -1,0 +1,100 @@
+{
+  "pages/home/hatta-town": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2197946046"
+  },
+  "pages/home/resort-aerial": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2201110074"
+  },
+  "pages/home/mountain-sunset": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2272807955"
+  },
+  "pages/home/chalet-exterior": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1516938158"
+  },
+  "pages/home/luxury-bedroom": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2263441171"
+  },
+  "pages/home/pool-mountain": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1225826432"
+  },
+  "pages/home/event-celebration": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2286588152"
+  },
+  "pages/home/holiday-home": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2270197218"
+  },
+  "pages/home/farm-landscape": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1171304227"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2278716571"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4c08ebfc-963a-4a53-b863-6b901754907c/session/bcdc22f1-1f18-4fe0-ac27-d419a71e23fd/horizontal-transparent-cbdeda62-5d81-44da-a50a-93295511b568/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4c08ebfc-963a-4a53-b863-6b901754907c/session/bcdc22f1-1f18-4fe0-ac27-d419a71e23fd/horizontal-transparent-cbdeda62-5d81-44da-a50a-93295511b568/logo-logo.png"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4c08ebfc-963a-4a53-b863-6b901754907c/session/71213d23-8640-4541-9265-05d3af920950/favicon-transparent-812a70de-9ca4-47d1-8ff5-ccfe85908206/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/4c08ebfc-963a-4a53-b863-6b901754907c/session/71213d23-8640-4541-9265-05d3af920950/favicon-transparent-812a70de-9ca4-47d1-8ff5-ccfe85908206/logo-logo.png"
+  },
+  "pages/services/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2194416154"
+  },
+  "pages/hatta-guide/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1213722537"
+  },
+  "properties/mountain-view-rooms": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2278278435"
+  },
+  "properties/hatta-highland-villa": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1298850930"
+  },
+  "properties/al-hajar-chalets": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2031316057"
+  },
+  "properties/hatta-mountain-resort": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2278716509"
+  },
+  "properties/hatta-events-estate": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2260965121"
+  },
+  "properties/green-valley-farm-stay": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2171340971"
+  },
+  "properties/hatta-farm-retreat": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2257247858"
+  },
+  "properties/masfout-mountain-chalet": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1400671688"
+  },
+  "uploads/hero-e1l2oaphm0-1795218697793-file-dxdxwrptlu": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-e1l2oaphm0-1795218697793-file-dxdxwrptlu-bc085744.png"
+  },
+  "pages/home/hero-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-e1l2oaphm0-1795218697793-file-dxdxwrptlu-bc085744.png"
+  }
+}

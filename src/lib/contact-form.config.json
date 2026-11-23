@@ -1,0 +1,20 @@
+{
+  "forms": {
+    "general-inquiry": {
+      "brandId": "3473d88a-89e4-4d57-bac7-6405b1d0292d",
+      "categoryId": 93766065
+    },
+    "booking-request": {
+      "brandId": "3473d88a-89e4-4d57-bac7-6405b1d0292d",
+      "categoryId": 93766065
+    },
+    "delivery-request": {
+      "brandId": "3473d88a-89e4-4d57-bac7-6405b1d0292d",
+      "categoryId": 93766065
+    },
+    "airport-transfer": {
+      "brandId": "3473d88a-89e4-4d57-bac7-6405b1d0292d",
+      "categoryId": 93766065
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "تواصل معنا",
+    "titleEn": "Contact Us",
+    "subtitle": "نحن هنا لمساعدتك في تخطيط إقامتك المثالية في حتا"
+  },
+  "tabs": {
+    "inquiry": "استفسار عام",
+    "booking": "طلب حجز",
+    "delivery": "طلب توصيل",
+    "transfer": "نقل من المطار"
+  },
+  "fields": {
+    "name": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "message": "رسالتك",
+    "submit": "إرسال",
+    "sending": "جارٍ الإرسال...",
+    "success": "شكراً! سنتواصل معك قريباً.",
+    "error": "حدث خطأ. يرجى المحاولة مجدداً."
+  },
+  "booking": {
+    "propertyName": "اسم العقار أو الفئة",
+    "checkIn": "تاريخ الوصول",
+    "checkOut": "تاريخ المغادرة",
+    "guests": "عدد الضيوف",
+    "specialRequests": "طلبات خاصة"
+  },
+  "delivery": {
+    "items": "المنتجات المطلوبة",
+    "deliveryDate": "تاريخ التوصيل",
+    "deliveryAddress": "عنوان التوصيل",
+    "notes": "ملاحظات إضافية"
+  },
+  "transfer": {
+    "flightNumber": "رقم الرحلة",
+    "arrivalDate": "تاريخ الوصول",
+    "arrivalTime": "وقت الوصول",
+    "passengers": "عدد الركاب",
+    "luggage": "عدد الحقائب",
+    "destination": "الوجهة في حتا",
+    "notes": "ملاحظات"
+  },
+  "contact": {
+    "title": "معلومات التواصل",
+    "phone": "0501848844",
+    "whatsapp": "واتساب",
+    "email": "info@hattafarm.com",
+    "location": "حتا، دبي، الإمارات العربية المتحدة",
+    "hours": "متاحون 7 أيام في الأسبوع، 8 صباحاً - 10 مساءً"
+  }
+}

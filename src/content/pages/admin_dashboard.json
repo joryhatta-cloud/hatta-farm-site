@@ -1,0 +1,20 @@
+{
+  "title": "لوحة الإدارة",
+  "welcome": "مرحباً بك",
+  "statsTitle": "إحصائيات سريعة",
+  "totalProps": "إجمالي العقارات",
+  "activeProps": "العقارات النشطة",
+  "featuredProps": "العقارات المميزة",
+  "manageProps": "إدارة العقارات",
+  "managePropsDesc": "إضافة وتعديل وحذف عقارات الإقامة",
+  "goToProps": "عرض العقارات",
+  "logoutBtn": "تسجيل الخروج",
+  "categories": {
+    "resort": "منتجعات",
+    "chalet": "شاليهات",
+    "farm-stay": "إقامات مزارع",
+    "holiday-home": "بيوت عطل",
+    "room": "غرف",
+    "event-stay": "إقامات مناسبات"
+  }
+}

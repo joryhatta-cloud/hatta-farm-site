@@ -1,0 +1,24 @@
+{
+  "labels": {
+    "aboutEn": "About this property",
+    "amenitiesEn": "Amenities & Features",
+    "locationEn": "Location",
+    "startingFrom": "Starting from",
+    "bookWhatsApp": "Book via WhatsApp",
+    "bookWhatsAppAr": "احجز عبر واتساب · رد فوري",
+    "callEnquire": "Call to Enquire",
+    "openMaps": "Open in Google Maps",
+    "tabbyEn": "Pay in 4 interest-free instalments with Tabby",
+    "tabbyAr": "ادفع على 4 أقساط بدون فوائد مع تابي",
+    "bedroomsLabel": "Bedrooms",
+    "bathroomsLabel": "Bathrooms",
+    "maxGuestsLabel": "Max guests",
+    "ratingLabel": "Rating",
+    "poolLabel": "Pool",
+    "breakfastLabel": "Breakfast",
+    "bbqLabel": "BBQ",
+    "notFoundTitle": "Property Not Found",
+    "notFoundDesc": "This property doesn't exist or is no longer available.",
+    "backHome": "Back to Home"
+  }
+}
